@@ -13,4 +13,4 @@ An autonomous system for deep-dive research and data synthesis. Uses graph-based
 * **Tooling:** Integrated search capabilities (Tavily/Custom Tooling)
 * **Development:** Python 3.13+
 
-  ### Developed by Valentina Kiyungi.
+### Developed by Valentina Kiyungi.
